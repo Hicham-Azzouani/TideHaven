@@ -60,17 +60,15 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
-        "*.unity": "yaml",
+        "*.unity": "yaml"
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-<<<<<<< HEAD
-    "dotnet.defaultSolution": "Tidehaven.slnx",
-=======
-    "dotnet.defaultSolution": "TideHaven.slnx",
->>>>>>> 4ce551a66b672a38efb14993bc046a72ae0b0abc
-    "dotnet.enableWorkspaceBasedDevelopment": false
+    "<<<<<<<HEADdotnet.defaultSolution": "Tidehaven.slnx",
+    "=======dotnet.defaultSolution": "TideHaven.slnx",
+    ">>>>>>>4ce551a66b672a38efb14993bc046a72ae0b0abcdotnet.enableWorkspaceBasedDevelopment": false,
+    "dotnet.defaultSolution": "TideHaven.slnx"
 }
