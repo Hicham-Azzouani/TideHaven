@@ -60,24 +60,18 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
-<<<<<<< Updated upstream
-        "*.unity": "yaml"
-=======
-        "*.unity": "yaml",
->>>>>>> Stashed changes
+        "yaml=======*.unity": "yaml",
+        "": ">>>>>>>Stashedchanges"
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-<<<<<<< Updated upstream
-    "<<<<<<<HEADdotnet.defaultSolution": "Tidehaven.slnx",
+    "<<<<<<<Updatedupstream<<<<<<<HEADdotnet.defaultSolution": "Tidehaven.slnx",
     "=======dotnet.defaultSolution": "TideHaven.slnx",
     ">>>>>>>4ce551a66b672a38efb14993bc046a72ae0b0abcdotnet.enableWorkspaceBasedDevelopment": false,
+    "TideHaven.slnx=======dotnet.defaultSolution": "Tidehaven.slnx",
+    "dotnet.enableWorkspaceBasedDevelopment": "false>>>>>>>Stashedchanges",
     "dotnet.defaultSolution": "TideHaven.slnx"
-=======
-    "dotnet.defaultSolution": "Tidehaven.slnx",
-    "dotnet.enableWorkspaceBasedDevelopment": false
->>>>>>> Stashed changes
 }

@@ -1018,9 +1018,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b683b5d6c875b4e588988ef2cc0c7664, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
-  speed: 10
+  speed: 7
   jump: 2
   gravity: -9.81
+  coyoteTime: 0.15
 --- !u!143 &2019930846
 CharacterController:
   m_ObjectHideFlags: 0
